@@ -2,7 +2,7 @@
 
 
 ## Overview
-![Icon](https://github.com/alalloush/Projects/tree/main/Plant%20Life/Pages.png?raw=true)
+![Icon](https://github.com/alalloush/Projects/blob/main/Plant%20Life/Pages.png?raw=true)
 
 ## Description
 
